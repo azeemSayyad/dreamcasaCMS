@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_kitchen_image_lists",
+  "info": {
+    "displayName": "ImageList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ImageListItem1": {
+      "type": "component",
+      "repeatable": false,
+      "component": "kitchen.image-list-item"
+    },
+    "ImageListItem2": {
+      "type": "component",
+      "repeatable": false,
+      "component": "kitchen.image-list-item"
+    },
+    "ImageListItem3": {
+      "type": "component",
+      "repeatable": false,
+      "component": "kitchen.image-list-item"
+    },
+    "ImageListItem4": {
+      "type": "component",
+      "repeatable": false,
+      "component": "kitchen.image-list-item"
+    },
+    "ImageListItem5": {
+      "type": "component",
+      "repeatable": false,
+      "component": "kitchen.image-list-item"
+    },
+    "ImageListItem6": {
+      "type": "component",
+      "repeatable": false,
+      "component": "kitchen.image-list-item"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "collectionName": "components_interiors_list_of_spaces",
+  "info": {
+    "displayName": "ListOfSpaces"
+  },
+  "options": {},
+  "attributes": {
+    "kitchen": {
+      "displayName": "spaceItem",
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.space-item"
+    },
+    "BedroomRetreats": {
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.space-item"
+    },
+    "StylistLivingRoom": {
+      "type": "component",
+      "repeatable": false,
+      "component": "interiors.space-item"
+    },
+    "TvUnitDesigns": {
+      "type": "component",
+      "repeatable": false,
+      "component": "interiors.space-item"
+    },
+    "BathroomElegance": {
+      "type": "component",
+      "repeatable": false,
+      "component": "interiors.space-item"
+    },
+    "BalconyBeauties": {
+      "type": "component",
+      "repeatable": false,
+      "component": "interiors.space-item"
+    },
+    "WardrobeWonders": {
+      "type": "component",
+      "repeatable": false,
+      "component": "interiors.space-item"
+    },
+    "DiningRoomInspirations": {
+      "type": "component",
+      "repeatable": false,
+      "component": "interiors.space-item"
+    }
+  }
+}
