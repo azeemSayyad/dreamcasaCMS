@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "navbars",
+  "info": {
+    "singularName": "navbar",
+    "pluralName": "navbars",
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "postPropertyBtn": {
+      "type": "string"
+    },
+    "brandLogo": {
+      "type": "string"
+    },
+    "navigationItems": {
+      "type": "json"
+    },
+    "testImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "testTexxt": {
+      "type": "string"
+    }
+  }
+}

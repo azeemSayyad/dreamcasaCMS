@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_interiors_packages",
+  "info": {
+    "displayName": "Packages"
+  },
+  "options": {},
+  "attributes": {
+    "packageItem1": {
+      "displayName": "packageItem",
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.package-item"
+    },
+    "packageItem2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.package-item"
+    },
+    "packageItem3": {
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.package-item"
+    }
+  }
+}

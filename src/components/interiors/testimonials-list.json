@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_interiors_testimonials_lists",
+  "info": {
+    "displayName": "testimonialsList"
+  },
+  "options": {},
+  "attributes": {
+    "testimonialItem1": {
+      "displayName": "testimonialItem",
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.testimonial-item"
+    },
+    "testimonial2": {
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.testimonial-item"
+    },
+    "testimonial3": {
+      "type": "component",
+      "repeatable": true,
+      "component": "interiors.testimonial-item"
+    }
+  }
+}
